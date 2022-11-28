@@ -22,7 +22,8 @@ Unleash the power of data and analytics to increase revenue, find new business o
 Problems I'm going to solve as a Data Scientist
 </h2>
 
- <h4>
+<h4>
+ 
 1. Promoting the game to draw more users from iOS and Mac. High Rollers who    are willing to spend 
    more are more likely to play on these two platforms.
 
