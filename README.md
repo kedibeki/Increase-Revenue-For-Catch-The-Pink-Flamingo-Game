@@ -8,6 +8,7 @@ Increase Revenue For Catch The Pink Flamingo Game
 <img src="https://github.com/kedibeki/Increase-Revenue-For-Catch-The-Pink-Flamingo-Game/blob/main/Cover%20Image.jpg" alt=""/>
 </p>
 
+
 [Click On Here For My Full Presentation](https://github.com/kedibeki/Increase-Revenue-For-Catch-The-Pink-Flamingo-Game/blob/main/Kedir%20Omer%20Increase%20Revenue%20For%20Catch%20The%20Pink%20Flamingo%20Game%20UC%20SanDiego.pdf)
  
 <h2>
