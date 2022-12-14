@@ -1,4 +1,4 @@
-# Big-Data-Science-Project-University-Of-California-SanDiego-Project 
+# Big-Data-Science-Project-University-Of-California-SanDiego
 
 <h2>
 Increase Revenue For Catch The Pink Flamingo Game
